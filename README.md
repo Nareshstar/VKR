@@ -1,2 +1,2 @@
 # VKR
-A student from vkr college
+A student of VKR college
